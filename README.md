@@ -11,3 +11,5 @@ I also added various novel cells that function differently than the regular Basi
 a cluster cell that stuns and attaches basic cells to itself in order to steal the food they produce, and a virus cell that attaches to other basic cells
 like a parasite, as well as a simple character controller. These are there more to see what I could do while inhereting from the original cell class.
 
+
+![alt text](Page-1-Image-1.png)
