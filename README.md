@@ -1,7 +1,7 @@
 # Unity Cellular-Automata Genetic Simulation
 
 The main goal of this project is to use a genetic algorithm to optimize cellular automata. Each cell has genetic traits, 
-both geneotypes(unseen traits) and phenotypes (visible trais). Their main visible traits are their size, color, and pulse rate.
+both geneotypes(unseen traits) and phenotypes (visible traits). Their main visible traits are their size, color, and pulse rate.
 The stage starts out with a selection of cell with randomized traits. Each cell's goal is only to find enough food to create self similar cells.
 Over the course of the simulation, the cells fit to the environment perpetuate and create copies of themselves that look the same and pulse at the same
 time. Cells unable to find enough food, die off and are removed. The end result is a felxible system that allows for a variety of differently abled cells to
